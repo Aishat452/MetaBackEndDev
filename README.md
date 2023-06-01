@@ -1,1 +1,1 @@
-### Back-End repo for the Meta Back End Scholarship Coursera
+### Back-End repo for the Meta Back End Scholarship on Coursera
