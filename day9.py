@@ -1,6 +1,6 @@
 twoInputs = input('Write any two digits that interests you: ')
-firstInpuOfStr = twoInputs[0]
-secondInpuOfStr = twoInputs[1]
+firstInpuOfStr = int(twoInputs[0])
+secondInpuOfStr = int(twoInputs[1])
 
 result = firstInpuOfStr + secondInpuOfStr
 
