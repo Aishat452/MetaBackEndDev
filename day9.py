@@ -4,4 +4,4 @@ secondInpuOfStr = int(twoInputs[1])
 
 result = firstInpuOfStr + secondInpuOfStr
 
-print('Your answer is ' + result)
+print('Your answer is ' + str(result))
